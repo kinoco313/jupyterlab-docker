@@ -1,0 +1,9 @@
+version: '3'
+services:
+  jupyterlab:
+    build: .
+    container_name: jupyterlab
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/app/work  # ホストのworkディレクトリをコンテナの/app/workにマウント
