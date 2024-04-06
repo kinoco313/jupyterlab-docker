@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 beautifulsoup4
+lxml
+html5lib

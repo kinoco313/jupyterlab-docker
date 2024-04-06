@@ -5,7 +5,7 @@ FROM python:3
 WORKDIR /app
 
 # pipのアップデート
-RUN pip install --update pip
+RUN pip install -U pip
 
 # パッケージのインストール
 COPY requirements.txt .
