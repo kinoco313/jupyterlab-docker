@@ -1,5 +1,6 @@
 pandas
 matplotlib
+japanize-matplotlib
 numpy
 beautifulsoup4
 lxml
