@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install jupyterlab
 
 # JupyterLabの起動
-CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+CMD ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''"]
