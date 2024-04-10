@@ -1,9 +1,12 @@
+numpy
 pandas
 matplotlib
 japanize-matplotlib
-numpy
+seaborn
+statsmodels
 scikit-learn
 beautifulsoup4
 lxml
 html5lib
-statsmodels
+requests
+black
