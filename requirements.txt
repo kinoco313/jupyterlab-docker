@@ -4,6 +4,7 @@ matplotlib
 japanize-matplotlib
 seaborn
 statsmodels
+pymc
 scikit-learn
 beautifulsoup4
 lxml
