@@ -5,6 +5,9 @@ japanize-matplotlib
 seaborn
 statsmodels
 pymc
+arviz
+xarray
+lifelines
 scikit-learn
 beautifulsoup4
 lxml
